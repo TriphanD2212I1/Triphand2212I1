@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+{
+	margin :0;
+	padding:0 50px;
+	box-sizing: border-box;
+	scroll-behavior:smooth;
+}
+.GIF{
+	text-align: center;
+	background-color:black; 
+}
+.GIF img {
+	width: 50%;
+	padding : 10px;
+}
+li {
+	padding: 0 50px;
+}
+ion-icon:hover{
+	color: black;
+	font-weight: 700;
+	box-shadow: 13px 20px 9px 23px rgba(0,0,0,0.1);
+}
+ion-icon{
+	font-size: 50px;
+}
+.navbar img {
+	width: 10%;
+}
+.banner1 img{
+	width :49%;
+}
+
+}
+.women img {
+	height : 800px;
+}
+p{
+	font-size : 16px;
+}
+.video {
+	padding : 0 15%;
+	text-align: center;
+}
+.chan {
+	background-color: white;
+	color: black;
+	height : 700px;
+	padding : 0 50px;
+}
+.chan ion-icon{
+	color: black;
+}
+.chan .cot {
+	width : 30%;
+	padding : 80px;
+	text-align: center;
+	
+}
+
+
